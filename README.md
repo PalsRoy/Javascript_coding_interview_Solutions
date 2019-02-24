@@ -8,8 +8,8 @@ WARMUP
 2. Reverse String using recursion [Easy]
 [Solution](https://github.com/PalsRoy/Javascript_coding_interview_Solutions/blob/master/10%20Days%20of%20Javascript/reverseStringWithRecursion.js)
 
-3. Singleton Design Pattern using ES6 classess [Easy]
-(https://github.com/PalsRoy/Javascript_coding_interview_Solutions/blob/master/10%20Days%20of%20Javascript/singletonPatternES6.js)
+3. Singleton Design Pattern using ES6 classes [Easy]
+[Solution](https://github.com/PalsRoy/Javascript_coding_interview_Solutions/blob/master/10%20Days%20of%20Javascript/singletonPatternES6.js)
 
 
 
